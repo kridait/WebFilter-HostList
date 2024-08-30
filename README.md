@@ -1,2 +1,0 @@
-# WebFilter-HostList
-WebFilter
