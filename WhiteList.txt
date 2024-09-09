@@ -1,7 +1,7 @@
 $$app.krida.id/Bengkel-Toyota^
 $$app2.krida.id/Bengkel-Toyota^
 $$103.28.52.57:9022/woowtime^
-$$dms.toyota.astra.co.id^
+$$astra.co.id^
 $$passport.toyota.astra.co.id^
 $$apps.astra.co.id/freeservicetso^
 $$validasicfr.plazatoyota.net^
