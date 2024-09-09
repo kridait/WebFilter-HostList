@@ -30,7 +30,7 @@ $$calendar.google.com^
 $$meet.google.com^
 $$mail.google.com^
 $$onedrive.live.com^
-$$web.whatsapp.com/"
+$$wwhatsapp.com/"
 $$drive.google.com^
 $$docs.google.com^
 $$play.google.com^
