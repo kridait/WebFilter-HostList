@@ -1,5 +1,4 @@
-$$app.krida.id/Bengkel-Toyota^
-$$app2.krida.id/Bengkel-Toyota^
+$$krida.id^
 $$103.28.52.57:9022/woowtime^
 $$astra.co.id^
 $$validasicfr.plazatoyota.net^
@@ -30,12 +29,10 @@ $$calendar.google.com^
 $$meet.google.com^
 $$mail.google.com^
 $$onedrive.live.com^
-$$wwhatsapp.com/"
+$$whatsapp.com/"
 $$drive.google.com^
 $$docs.google.com^
 $$play.google.com^
-$$instagram.com^
-$$facebook.com^
 $$web.telegram.org^
 $$bni.co.id^
 $$djponline.pajak.go.id^
