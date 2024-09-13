@@ -37,3 +37,4 @@ $$pajak.go.id^
 $$dephub.go.id^
 $$ilovepdf.com^
 $$smallpdf.com^
+$$mds.astraotoshop.com^
